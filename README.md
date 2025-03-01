@@ -1,4 +1,4 @@
-## Hi there 👋 this is Vivian from Planet VV
+## Hi there 👋 this is Vivian from Planet ViVi🪐
 
                         .,ccc$$$bc
                      ,c$$$$$$$$$$F
