@@ -1,4 +1,5 @@
 ## Hi there 👋 this is Vivian from Planet ViVi🪐
 
-<img src="https://github.com/user-attachments/assets/c962f1ab-3284-466c-849d-897233390106" width="400" />
+<img src="https://github.com/user-attachments/assets/7d160365-6cb2-44bb-a207-d74a0b28cb5e" width="100" />
+
 
