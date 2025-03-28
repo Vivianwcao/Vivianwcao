@@ -6,7 +6,8 @@ I’m a software developer from Vancouver, BC, with a love for solving problems 
 I’m all about clear communication, teamwork, and keeping things fun while building awesome stuff.
 
 Let’s chat! 🚀 </h4>
-<img src="https://github.com/user-attachments/assets/7d160365-6cb2-44bb-a207-d74a0b28cb5e" width="100" /> [**LinkedIn**](https://www.linkedin.com/in/vivianwcao/) 
+<img src="https://github.com/user-attachments/assets/7d160365-6cb2-44bb-a207-d74a0b28cb5e" width="100" /> </br>
+- [**LinkedIn**](https://www.linkedin.com/in/vivianwcao/) 
 
 
 
