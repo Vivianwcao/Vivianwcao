@@ -3,7 +3,6 @@
 <h4 Hi, I’m Vivian! 👋
 
 I’m a software developer from Vancouver, BC, with a love for solving problems and paying attention to the little details. When I’m not tackling algorithm challenges or exploring new languages, you might catch me lost in thought, trying to remember last night’s coding lesson in the middle of a grocery store! 😅
-I’m all about clear communication, teamwork, and keeping things fun while building awesome stuff.
 
 Let’s chat! 🚀 </h4>
 <img src="https://github.com/user-attachments/assets/7d160365-6cb2-44bb-a207-d74a0b28cb5e" width="100" /> </br>
