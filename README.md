@@ -37,7 +37,7 @@ Excited to share our team project **_BizBot AI_** from the BrainStation Microsof
 
 **_Snaps_** is a photo-sharing application built with **React** and **Sass**, allowing users to upload pictures and leave comments on individual images.
 
-- [📸**Snaps**](snapsphotogallery.netlify.app)  
+- [📸**Snaps**](https://snapsphotogallery.netlify.app/)
 
 <img src="https://github.com/user-attachments/assets/9a2b1594-cd08-494f-9882-ecbfe297b6db" width="330" />
 <img src="https://github.com/user-attachments/assets/11a43185-5edd-4947-918a-a22b69c92866" width="330" />  
