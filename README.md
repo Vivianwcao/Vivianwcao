@@ -14,7 +14,7 @@ Let’s chat! 🚀 </h4>
 
  
 
-Please check-out **_Black Royale_**,  a fun blackjack multi-user game created by me using **React** and **Firebase**!
+### Please check-out **_Black Royale_**,  a fun blackjack multi-user game created by me using **React** and **Firebase**!
 
 - [♠️**Blackjack Royale**](https://blackjackroyalebyvivian.netlify.app/)  
 - [♥️**Blackjack Royale - GitHub repo**](https://github.com/Vivianwcao/blackjack-multiplayer-react-project/tree/v4css)   
@@ -22,13 +22,13 @@ Please check-out **_Black Royale_**,  a fun blackjack multi-user game created by
 <img src="https://github.com/user-attachments/assets/b5c3347a-62ff-48f0-93d1-60b8af059170" height="250" />
 <img src="https://github.com/user-attachments/assets/0b7a986f-584d-41d6-8fa2-d1931ac5943c" height="250" />  
 
-**_SimplyDone To-do App_**, a practical to-do app that lets users add new entries, edit entry titles, and create or update sublists.
+### **_SimplyDone To-do App_**, a practical to-do app that lets users add new entries, edit entry titles, and create or update sublists.
 
 - [**SimplyDone**](https://simplydonebyvivian.vercel.app/)  
 <img src="https://github.com/user-attachments/assets/3d22d206-bdb8-42d9-aa6e-23c522289430" height="300" />
 <img src="https://github.com/user-attachments/assets/e25dab5f-0a46-4ef5-bab9-873160289583" height="300" />
 
-Excited to share our team project **_BizBot AI_** from the BrainStation Microsoft Industry Hackathon Project! 🚀
+### Excited to share our team project **_BizBot AI_** from the BrainStation Microsoft Industry Hackathon Project! 🚀
 
 - [🤖**BizBot AI**](https://www.linkedin.com/posts/yvonnelutrinh_bizbotai-microsoft-industry-project-activity-7257523610271760384-T-Ca?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAotTRsBlMeh9GGNJfMH69R72K5wHnu_xQo)  
 - [🤖**BizBot AI - GitHub LinkedIn post**](https://www.linkedin.com/posts/yvonnelutrinh_bizbotai-microsoft-industry-project-activity-7257523610271760384-T-Ca?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAotTRsBlMeh9GGNJfMH69R72K5wHnu_xQo)  
@@ -38,7 +38,7 @@ Excited to share our team project **_BizBot AI_** from the BrainStation Microsof
 <img src="https://github.com/user-attachments/assets/f2ee6ece-5f6d-4c77-b494-eb2a049c3734" height="250" />  
 
 
-**_Snaps_** is a photo-sharing application built with **React** and **Sass**, allowing users to upload pictures and leave comments on individual images.
+### **_Snaps_** is a photo-sharing application built with **React** and **Sass**, allowing users to upload pictures and leave comments on individual images.
 
 - [📸**Snaps**](https://snapsphotogallery.netlify.app/)
 
@@ -46,7 +46,7 @@ Excited to share our team project **_BizBot AI_** from the BrainStation Microsof
 <img src="https://github.com/user-attachments/assets/11a43185-5edd-4947-918a-a22b69c92866" height="700" />  
 
 
-**_Bandsite_** is a prototype website built for a music band using **JavaScript** and **Sass**, featuring show schedules, band introductions, and a comment section for users to share their thoughts on the latest album.
+### **_Bandsite_** is a prototype website built for a music band using **JavaScript** and **Sass**, featuring show schedules, band introductions, and a comment section for users to share their thoughts on the latest album.
 
 - [🎸**Bandsite**](https://bandsiteconcert.netlify.app/)   
 <div style="display: flex; align-items: flex-start;">
