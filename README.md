@@ -31,7 +31,7 @@ Let’s chat! 🚀 </h4>
 ### Excited to share our team project **_BizBot AI_** from the BrainStation Microsoft Industry Hackathon Project! 🚀
 
 - [🤖**BizBot AI**](https://www.linkedin.com/posts/yvonnelutrinh_bizbotai-microsoft-industry-project-activity-7257523610271760384-T-Ca?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAotTRsBlMeh9GGNJfMH69R72K5wHnu_xQo)  
-- [🤖**BizBot AI - GitHub LinkedIn post**](https://www.linkedin.com/posts/yvonnelutrinh_bizbotai-microsoft-industry-project-activity-7257523610271760384-T-Ca?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAotTRsBlMeh9GGNJfMH69R72K5wHnu_xQo)  
+- [🤖**BizBot AI - GitHub LinkedIn post**](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7307523606844948480?collapsed=1)  
 - [🤖**BizBot AI - GitHub repo**](https://github.com/AAdemide/industry-project-team2)
 
 <img src="https://github.com/user-attachments/assets/7dfd6246-edfb-40f2-959d-91a3f27573f3" height="250" />  
