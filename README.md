@@ -1,12 +1,12 @@
 <h1 align="center">👋Hi, I’m Vivian! </h1>
 
-<h4>I’m a software developer from Vancouver, BC, with a love for solving problems and paying attention to the little details. When I’m not tackling algorithm challenges or exploring new languages, you might catch me lost in thought, trying to remember last night’s coding lesson in the middle of a grocery store! 😅</h4>
+<p>I’m a software developer from Vancouver, BC, with a love for solving problems and paying attention to the little details. When I’m not tackling algorithm challenges or exploring new languages, you might catch me lost in thought, trying to remember last night’s coding lesson in the middle of a grocery store! 😅</p>
 
-### ↬ <a href="https://vivianwcao.netlify.app/" target="_blank" rel="noopener noreferrer">My Website</a>  
-
-<h2 style="font-weight:bold; font-size:1rem; margin:auto 0; border-bottom: none;">let’s connect ⤸</h2>
+<a href="https://vivianwcao.netlify.app/" target="_blank" rel="noopener noreferrer">
+<img style="height:2rem;" src="https://img.shields.io/badge/My%20Website%20-8A2BE2.svg" alt="website">
+</a></br>
 <a href="https://www.linkedin.com/in/vivianwcao/" target="_blank" rel="noopener noreferrer">
-<img style="height:2rem;" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+<img style="height:2rem;" src="https://img.shields.io/badge/linkedin-%230077B5.svg" alt="Linkedin">
 </a>
 
 
