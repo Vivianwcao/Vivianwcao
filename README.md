@@ -6,7 +6,7 @@
 <img style="height:2rem;" src="https://img.shields.io/badge/My%20Website%20-8A2BE2.svg" alt="website">
 </a></br>
 <a href="https://www.linkedin.com/in/vivianwcao/" target="_blank" rel="noopener noreferrer">
-<img style="height:2rem;" src="https://img.shields.io/badge/linkedin-%230077B5.svg" alt="Linkedin">
+<img style="height:2rem;" src="https://img.shields.io/badge/Linkedin-%230077B5.svg" alt="Linkedin">
 </a>
 
 
