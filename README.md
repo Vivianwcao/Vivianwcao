@@ -18,16 +18,16 @@
 ### Please check out **_Black Royale_**,  a fun blackjack multi-user game created by me using **React** and **Firebase**!
 
 - [♠️**Blackjack Royale**](https://blackjackroyalebyvivian.netlify.app/)  
-- [♥️**Blackjack Royale - GitHub repo**](https://github.com/Vivianwcao/blackjack-multiplayer-react-project/tree/v4css)   
-
+- [♥️**Blackjack Royale - GitHub repo**](https://github.com/Vivianwcao/blackjack-multiplayer-react-project/tree/v4css)
+  
+<img src="https://i.imgur.com/nAMzOKh.gif" height="250" />
 <img src="https://github.com/user-attachments/assets/b5c3347a-62ff-48f0-93d1-60b8af059170" height="250" />
 <img src="https://github.com/user-attachments/assets/0b7a986f-584d-41d6-8fa2-d1931ac5943c" height="250" />  
 
 ### **_SimplyDone To-do App_**, a practical to-do app that lets users add new entries, edit entry titles, and create or update sublists.
 
-- [**SimplyDone**](https://simplydonebyvivian.vercel.app/)  
-<img src="https://github.com/user-attachments/assets/3d22d206-bdb8-42d9-aa6e-23c522289430" height="300" />
-<img src="https://github.com/user-attachments/assets/e25dab5f-0a46-4ef5-bab9-873160289583" height="300" />
+- [**SimplyDone**](https://simplydonebyvivian.vercel.app/)
+<img src="https://i.imgur.com/rsfyxLC.gif" height="250" />
 
 ### Excited to share our team project **_BizBot AI_** from the BrainStation Microsoft Industry Hackathon Project! 🚀
 
@@ -35,6 +35,7 @@
 - [🤖**BizBot AI - GitHub LinkedIn post**](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7307523606844948480?collapsed=1)  
 - [🤖**BizBot AI - GitHub repo**](https://github.com/AAdemide/industry-project-team2)
 
+<img src="https://i.imgur.com/gGsFkuQ.gif" height="250" />
 <img src="https://github.com/user-attachments/assets/7dfd6246-edfb-40f2-959d-91a3f27573f3" height="250" />  
 <img src="https://github.com/user-attachments/assets/f2ee6ece-5f6d-4c77-b494-eb2a049c3734" height="250" />  
 
@@ -43,6 +44,7 @@
 
 - [📸**Snaps**](https://snapsphotogallery.netlify.app/)
 
+<img src="https://i.imgur.com/LHoGjxw.gif" height="250" />
 <img src="https://github.com/user-attachments/assets/9a2b1594-cd08-494f-9882-ecbfe297b6db" height="700" />
 <img src="https://github.com/user-attachments/assets/11a43185-5edd-4947-918a-a22b69c92866" height="700" />  
 
@@ -51,6 +53,8 @@
 
 - [🎸**Bandsite**](https://bandsiteconcert.netlify.app/)   
 <div style="display: flex; align-items: flex-start;">
+
+<img src="https://i.imgur.com/9WsWG4k.gif" height="250" />
 <img src="https://github.com/user-attachments/assets/cea54f88-be56-4b06-8abe-3529a384e3fc" height="700"/>
 <img src="https://github.com/user-attachments/assets/435a5b74-26e3-44d8-8a2f-3f9f20797532" height="700"/>
 <img src="https://github.com/user-attachments/assets/35cedd1d-1971-4e94-a3e1-cec4f7ede16b" height="700"/>  
