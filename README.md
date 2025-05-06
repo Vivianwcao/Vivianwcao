@@ -13,6 +13,9 @@
 </a></br>
 <a href="https://www.linkedin.com/in/vivianwcao/" target="_blank" rel="noopener noreferrer">
 <img style="height:2rem;" src="https://img.shields.io/badge/Linkedin-%245077B5.svg" alt="Linkedin">
+</a></br>  
+<a href="https://leetcode.com/u/user9615UX/" target="_blank" rel="noopener noreferrer">
+<img style="height:2rem;" src="https://img.shields.io/badge/Leetcode-%20-FFF130.svg" alt="Leetcode">
 </a>
 
 ###
