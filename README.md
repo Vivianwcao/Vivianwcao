@@ -20,7 +20,7 @@ Because I work on a small team, I handle these pipelines across their full lifec
 
 ## Certifications
 
-* **AWS Certified Solutions Architect: Associate** (in progress)
+* **AWS Certified Solutions Architect: Associate** (Currently studying)
 
 ## Enterprise Projects
 
