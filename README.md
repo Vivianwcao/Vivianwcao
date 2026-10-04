@@ -12,7 +12,7 @@ Because I work on a small team, I handle these pipelines across their full lifec
 
 * **Languages:** Python, SQL, JavaScript (Node.js)
 * **Also worked with:** PHP, Angular, React
-* **AWS:** Lambda, Step Functions, S3, SQS, SNS, EventBridge, API Gateway, RDS, DynamoDB, Glue, Athena, QuickSight, Bedrock, CloudWatch, SES, IAM, Secrets Manager, SSM Parameter Store
+* **AWS:** Lambda, Step Functions, S3, SQS, SNS, EventBridge, API Gateway, RDS, DynamoDB, Glue, Athena, QuickSight, Bedrock, CloudWatch, SES, IAM, Secrets Manager, SSM Parameter Store, AWS Cognito
 * **Infrastructure:** AWS SAM, CloudFormation, Docker, VPC (NAT Gateway, static Elastic IPs), Linux or WSL, Git, GitHub, GitLab
 * **Data:** PostgreSQL, MySQL, DuckDB, Pandas, SQLAlchemy, PyArrow, Parquet, PDFPlumber, openpyxl, BeautifulSoup
 * **Integration and security:** REST APIs, mTLS client certificates, OAuth 2.0 (client credentials), bearer token auth
