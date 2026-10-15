@@ -1,6 +1,6 @@
 # Vivian Cao
 
-I am a backend cloud integration engineer focusing on serverless pipeline architecture, data extraction, and payload normalization on AWS. Most of my work involves taking messy and nonstandard inputs such as multipage PDF invoices, multitab Excel workbooks, CSVs, XMLs, MHTMLs, and REST API payloads and turning them into clean, standardized records for downstream platforms.
+I am a backend and data engineer focusing on serverless pipeline architecture, data extraction, and payload normalization on AWS. Most of my work involves taking messy and nonstandard inputs such as multipage PDF invoices, multitab Excel workbooks, CSVs, XMLs, MHTMLs, and REST API payloads and turning them into clean, standardized records for downstream platforms.
 
 In production, getting data out of a file is only half the work. The harder part is making sure the data is accurate. Vendor layouts can change without notice, text extraction can fail without being obvious, and downstream procurement portals have strict validation rules. AI and standard scripts do not always handle these cases well. Much of my day to day work involves writing arithmetic checks, handling edge cases, debugging pipeline issues, and looking for ways to improve accuracy and processing speed. I also look for unnecessary AWS usage and other costs that can be reduced without affecting the result.
 
